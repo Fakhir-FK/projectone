@@ -18,3 +18,7 @@
 6. Update the components
 7. Update the pipeline 
 8. Update the main.py
+
+chat link
+
+https://grok.com/c/98a684dd-3a9a-4942-b1ba-4238b6033867?rid=f676ce99-9516-40be-a6f4-263a9fd30d8a
